@@ -28,3 +28,7 @@
 通过软硬件协同，本系统可实现智能家居场景下的多设备联动、环境感知与娱乐服务一体化控制。
 
 ![image](https://github.com/lsy4188/smart_home-_central_control/blob/main/%E4%B8%AD%E6%8E%A7.jpg)
+
+下位机
+![image](https://github.com/lsy4188/smart_home-_central_control/blob/main/1.jpg)
+![image](https://github.com/lsy4188/smart_home-_central_control/blob/main/2.jpg)
